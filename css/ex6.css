@@ -22,14 +22,13 @@ footer{
     text-align: left;
     width: 800px;
     height: 500px;
+    padding-top: 30px;
 }
 .blocos{
     height: 310px;
     width: 30%;
     background-color: #f64a16;
-    margin-left: 1.2%;
-    padding: 1%;
-    position: relative;
+    margin: 1%;
     float: left;
 }
 .blocos p{
